@@ -63,7 +63,6 @@ Si vous souhaitez modifier le texte source, ajouter un nouveau format ou simplem
 
     ```bash
     git clone https://github.com/janvier-s/bible-fillion.git
-    cd bible-fillion
     ```
 
 2.  **Installez les dépendances :**
