@@ -199,7 +199,7 @@ Le langage est précis et sans ostentation et donne une lecture traditionnelle d
 ---
 
 <p align="center">
-Que le Seigneur bénisse votre lecture et votre travail avec ce texte. Que sa Parole puisse éclairer votre intelligence, apaise votre cœur et fortifie l'esprit de tous ceux qui sont en recherche de Vérité. Et que la Lumière de Dieu éclaire votre chemin, vous guide, et vous bénisse dans touts vos projets. Nous le demandons par Jésus-Christ, Notre Seigneur, qui vit et Reigne dans l'utinté du Saint-Esprit, Dieu, pour les siècles des siècles. Amen.
+Que le Seigneur bénisse votre lecture et votre entreprise avec ce texte. Que sa Parole puisse éclairer votre intelligence, apaiser votre cœur et fortifier l'esprit de tous ceux qui sont en recherche de Vérité. Et que la Lumière de Dieu éclaire votre chemin, vous guide, et vous bénisse dans touts vos projets. Nous le demandons par Jésus-Christ, Notre Seigneur, qui vit et Reigne dans l'utinté du Saint-Esprit, Dieu, pour les siècles des siècles. Amen.
 </p>
 <p align="center">
   <em>Pour la Gloire de Dieu et le Salut du Monde</em>
