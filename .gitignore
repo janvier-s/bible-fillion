@@ -1,0 +1,15 @@
+# Dependency folder
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and local build files from TeX compilation
+/formats/xetex/*.aux
+/formats/xetex/*.log
+/formats/xetex/*.toc
+/formats/xetex/*.out
+/formats/xetex/*.fls
+/formats/xetex/*.fdb_latexmk
+/formats/sword/build/

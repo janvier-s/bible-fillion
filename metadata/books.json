@@ -1,0 +1,659 @@
+{
+  "GEN": {
+    "book_num": 1,
+    "testament": "OT",
+    "book_type": "Pentateuch",
+    "canon_type": "protocanonical",
+    "en_name": "Genesis",
+    "fr_name": "Genèse",
+    "fr_abbr": "Gn"
+  },
+  "EXO": {
+    "book_num": 2,
+    "testament": "OT",
+    "book_type": "Pentateuch",
+    "canon_type": "protocanonical",
+    "en_name": "Exodus",
+    "fr_name": "Exode",
+    "fr_abbr": "Ex"
+  },
+  "LEV": {
+    "book_num": 3,
+    "testament": "OT",
+    "book_type": "Pentateuch",
+    "canon_type": "protocanonical",
+    "en_name": "Leviticus",
+    "fr_name": "Lévitique",
+    "fr_abbr": "Lv"
+  },
+  "NUM": {
+    "book_num": 4,
+    "testament": "OT",
+    "book_type": "Pentateuch",
+    "canon_type": "protocanonical",
+    "en_name": "Numbers",
+    "fr_name": "Nombres",
+    "fr_abbr": "Nb"
+  },
+  "DEU": {
+    "book_num": 5,
+    "testament": "OT",
+    "book_type": "Pentateuch",
+    "canon_type": "protocanonical",
+    "en_name": "Deuteronomy",
+    "fr_name": "Deutéronome",
+    "fr_abbr": "Dt"
+  },
+  "JOS": {
+    "book_num": 6,
+    "testament": "OT",
+    "book_type": "Historical",
+    "canon_type": "protocanonical",
+    "en_name": "Joshua",
+    "fr_name": "Josué",
+    "fr_abbr": "Jos"
+  },
+  "JDG": {
+    "book_num": 7,
+    "testament": "OT",
+    "book_type": "Historical",
+    "canon_type": "protocanonical",
+    "en_name": "Judges",
+    "fr_name": "Juges",
+    "fr_abbr": "Jg"
+  },
+  "RUT": {
+    "book_num": 8,
+    "testament": "OT",
+    "book_type": "Historical",
+    "canon_type": "protocanonical",
+    "en_name": "Ruth",
+    "fr_name": "Ruth",
+    "fr_abbr": "Rt"
+  },
+  "1SA": {
+    "book_num": 9,
+    "testament": "OT",
+    "book_type": "Historical",
+    "canon_type": "protocanonical",
+    "en_name": "1 Samuel",
+    "fr_name": "1 Samuel",
+    "fr_abbr": "1S"
+  },
+  "2SA": {
+    "book_num": 10,
+    "testament": "OT",
+    "book_type": "Historical",
+    "canon_type": "protocanonical",
+    "en_name": "2 Samuel",
+    "fr_name": "2 Samuel",
+    "fr_abbr": "2S"
+  },
+  "1KI": {
+    "book_num": 11,
+    "testament": "OT",
+    "book_type": "Historical",
+    "canon_type": "protocanonical",
+    "en_name": "1 Kings",
+    "fr_name": "1 Rois",
+    "fr_abbr": "1R"
+  },
+  "2KI": {
+    "book_num": 12,
+    "testament": "OT",
+    "book_type": "Historical",
+    "canon_type": "protocanonical",
+    "en_name": "2 Kings",
+    "fr_name": "2 Rois",
+    "fr_abbr": "2R"
+  },
+  "1CH": {
+    "book_num": 13,
+    "testament": "OT",
+    "book_type": "Historical",
+    "canon_type": "protocanonical",
+    "en_name": "1 Chronicles",
+    "fr_name": "1 Chroniques",
+    "fr_abbr": "1Ch"
+  },
+  "2CH": {
+    "book_num": 14,
+    "testament": "OT",
+    "book_type": "Historical",
+    "canon_type": "protocanonical",
+    "en_name": "2 Chronicles",
+    "fr_name": "2 Chroniques",
+    "fr_abbr": "2Ch"
+  },
+  "EZR": {
+    "book_num": 15,
+    "testament": "OT",
+    "book_type": "Historical",
+    "canon_type": "protocanonical",
+    "en_name": "Ezra",
+    "fr_name": "Esdras",
+    "fr_abbr": "Esd"
+  },
+  "NEH": {
+    "book_num": 16,
+    "testament": "OT",
+    "book_type": "Historical",
+    "canon_type": "protocanonical",
+    "en_name": "Nehemiah",
+    "fr_name": "Néhémie",
+    "fr_abbr": "Né"
+  },
+  "TOB": {
+    "book_num": 17,
+    "testament": "OT",
+    "book_type": "Historical",
+    "canon_type": "deuterocanonical",
+    "en_name": "Tobit",
+    "fr_name": "Tobie",
+    "fr_abbr": "Tb"
+  },
+  "JDT": {
+    "book_num": 18,
+    "testament": "OT",
+    "book_type": "Historical",
+    "canon_type": "deuterocanonical",
+    "en_name": "Judith",
+    "fr_name": "Judith",
+    "fr_abbr": "Jdt"
+  },
+  "EST": {
+    "book_num": 19,
+    "testament": "OT",
+    "book_type": "Historical",
+    "canon_type": "protocanonical",
+    "en_name": "Esther",
+    "fr_name": "Esther",
+    "fr_abbr": "Est"
+  },
+  "1MA": {
+    "book_num": 20,
+    "testament": "OT",
+    "book_type": "Historical",
+    "canon_type": "deuterocanonical",
+    "en_name": "1 Maccabees",
+    "fr_name": "1 Maccabées",
+    "fr_abbr": "1M"
+  },
+  "2MA": {
+    "book_num": 21,
+    "testament": "OT",
+    "book_type": "Historical",
+    "canon_type": "deuterocanonical",
+    "en_name": "2 Maccabees",
+    "fr_name": "2 Maccabées",
+    "fr_abbr": "2M"
+  },
+  "JOB": {
+    "book_num": 22,
+    "testament": "OT",
+    "book_type": "Wisdom",
+    "canon_type": "protocanonical",
+    "en_name": "Job",
+    "fr_name": "Job",
+    "fr_abbr": "Jb"
+  },
+  "PSA": {
+    "book_num": 23,
+    "testament": "OT",
+    "book_type": "Wisdom",
+    "canon_type": "protocanonical",
+    "en_name": "Psalms",
+    "fr_name": "Psaumes",
+    "fr_abbr": "Ps"
+  },
+  "PRO": {
+    "book_num": 24,
+    "testament": "OT",
+    "book_type": "Wisdom",
+    "canon_type": "protocanonical",
+    "en_name": "Proverbs",
+    "fr_name": "Proverbes",
+    "fr_abbr": "Pr"
+  },
+  "ECC": {
+    "book_num": 25,
+    "testament": "OT",
+    "book_type": "Wisdom",
+    "canon_type": "protocanonical",
+    "en_name": "Ecclesiastes",
+    "fr_name": "Ecclésiaste",
+    "fr_abbr": "Ec"
+  },
+  "SNG": {
+    "book_num": 26,
+    "testament": "OT",
+    "book_type": "Wisdom",
+    "canon_type": "protocanonical",
+    "en_name": "Song of Solomon",
+    "fr_name": "Cantique des Cantiques",
+    "fr_abbr": "Ct"
+  },
+  "WIS": {
+    "book_num": 27,
+    "testament": "OT",
+    "book_type": "Wisdom",
+    "canon_type": "deuterocanonical",
+    "en_name": "Wisdom",
+    "fr_name": "Sagesse",
+    "fr_abbr": "Sg"
+  },
+  "SIR": {
+    "book_num": 28,
+    "testament": "OT",
+    "book_type": "Wisdom",
+    "canon_type": "deuterocanonical",
+    "en_name": "Sirach",
+    "fr_name": "Siracide",
+    "fr_abbr": "Si"
+  },
+  "ISA": {
+    "book_num": 29,
+    "testament": "OT",
+    "book_type": "Prophetic",
+    "canon_type": "protocanonical",
+    "en_name": "Isaiah",
+    "fr_name": "Isaïe",
+    "fr_abbr": "Is"
+  },
+  "JER": {
+    "book_num": 30,
+    "testament": "OT",
+    "book_type": "Prophetic",
+    "canon_type": "protocanonical",
+    "en_name": "Jeremiah",
+    "fr_name": "Jérémie",
+    "fr_abbr": "Jr"
+  },
+  "LAM": {
+    "book_num": 31,
+    "testament": "OT",
+    "book_type": "Prophetic",
+    "canon_type": "protocanonical",
+    "en_name": "Lamentations",
+    "fr_name": "Lamentations",
+    "fr_abbr": "Lm"
+  },
+  "BAR": {
+    "book_num": 32,
+    "testament": "OT",
+    "book_type": "Prophetic",
+    "canon_type": "deuterocanonical",
+    "en_name": "Baruch",
+    "fr_name": "Baruch",
+    "fr_abbr": "Ba"
+  },
+  "EZK": {
+    "book_num": 33,
+    "testament": "OT",
+    "book_type": "Prophetic",
+    "canon_type": "protocanonical",
+    "en_name": "Ezekiel",
+    "fr_name": "Ézéchiel",
+    "fr_abbr": "Ez"
+  },
+  "DAN": {
+    "book_num": 34,
+    "testament": "OT",
+    "book_type": "Prophetic",
+    "canon_type": "protocanonical",
+    "en_name": "Daniel",
+    "fr_name": "Daniel",
+    "fr_abbr": "Dn"
+  },
+  "HOS": {
+    "book_num": 35,
+    "testament": "OT",
+    "book_type": "Prophetic",
+    "canon_type": "protocanonical",
+    "en_name": "Hosea",
+    "fr_name": "Osée",
+    "fr_abbr": "Os"
+  },
+  "JOL": {
+    "book_num": 36,
+    "testament": "OT",
+    "book_type": "Prophetic",
+    "canon_type": "protocanonical",
+    "en_name": "Joel",
+    "fr_name": "Joël",
+    "fr_abbr": "Jl"
+  },
+  "AMO": {
+    "book_num": 37,
+    "testament": "OT",
+    "book_type": "Prophetic",
+    "canon_type": "protocanonical",
+    "en_name": "Amos",
+    "fr_name": "Amos",
+    "fr_abbr": "Am"
+  },
+  "OBA": {
+    "book_num": 38,
+    "testament": "OT",
+    "book_type": "Prophetic",
+    "canon_type": "protocanonical",
+    "en_name": "Obadiah",
+    "fr_name": "Abdias",
+    "fr_abbr": "Ab"
+  },
+  "JON": {
+    "book_num": 39,
+    "testament": "OT",
+    "book_type": "Prophetic",
+    "canon_type": "protocanonical",
+    "en_name": "Jonah",
+    "fr_name": "Jonas",
+    "fr_abbr": "Jon"
+  },
+  "MIC": {
+    "book_num": 40,
+    "testament": "OT",
+    "book_type": "Prophetic",
+    "canon_type": "protocanonical",
+    "en_name": "Micah",
+    "fr_name": "Michée",
+    "fr_abbr": "Mi"
+  },
+  "NAM": {
+    "book_num": 41,
+    "testament": "OT",
+    "book_type": "Prophetic",
+    "canon_type": "protocanonical",
+    "en_name": "Nahum",
+    "fr_name": "Nahum",
+    "fr_abbr": "Na"
+  },
+  "HAB": {
+    "book_num": 42,
+    "testament": "OT",
+    "book_type": "Prophetic",
+    "canon_type": "protocanonical",
+    "en_name": "Habakkuk",
+    "fr_name": "Habaquq",
+    "fr_abbr": "Ha"
+  },
+  "ZEP": {
+    "book_num": 43,
+    "testament": "OT",
+    "book_type": "Prophetic",
+    "canon_type": "protocanonical",
+    "en_name": "Zephaniah",
+    "fr_name": "Sophonie",
+    "fr_abbr": "So"
+  },
+  "HAG": {
+    "book_num": 44,
+    "testament": "OT",
+    "book_type": "Prophetic",
+    "canon_type": "protocanonical",
+    "en_name": "Haggai",
+    "fr_name": "Aggée",
+    "fr_abbr": "Ag"
+  },
+  "ZEC": {
+    "book_num": 45,
+    "testament": "OT",
+    "book_type": "Prophetic",
+    "canon_type": "protocanonical",
+    "en_name": "Zechariah",
+    "fr_name": "Zacharie",
+    "fr_abbr": "Za"
+  },
+  "MAL": {
+    "book_num": 46,
+    "testament": "OT",
+    "book_type": "Prophetic",
+    "canon_type": "protocanonical",
+    "en_name": "Malachi",
+    "fr_name": "Malachie",
+    "fr_abbr": "Ml"
+  },
+  "MAT": {
+    "book_num": 47,
+    "testament": "NT",
+    "book_type": "Gospels",
+    "canon_type": "protocanonical",
+    "en_name": "Matthew",
+    "fr_name": "Matthieu",
+    "fr_abbr": "Mt"
+  },
+  "MRK": {
+    "book_num": 48,
+    "testament": "NT",
+    "book_type": "Gospels",
+    "canon_type": "protocanonical",
+    "en_name": "Mark",
+    "fr_name": "Marc",
+    "fr_abbr": "Mc"
+  },
+  "LUK": {
+    "book_num": 49,
+    "testament": "NT",
+    "book_type": "Gospels",
+    "canon_type": "protocanonical",
+    "en_name": "Luke",
+    "fr_name": "Luc",
+    "fr_abbr": "Lc"
+  },
+  "JHN": {
+    "book_num": 50,
+    "testament": "NT",
+    "book_type": "Gospels",
+    "canon_type": "protocanonical",
+    "en_name": "John",
+    "fr_name": "Jean",
+    "fr_abbr": "Jn"
+  },
+  "ACT": {
+    "book_num": 51,
+    "testament": "NT",
+    "book_type": "Acts",
+    "canon_type": "protocanonical",
+    "en_name": "Acts",
+    "fr_name": "Actes des Apôtres",
+    "fr_abbr": "Ac"
+  },
+  "ROM": {
+    "book_num": 52,
+    "testament": "NT",
+    "book_type": "Pauline Epistle",
+    "canon_type": "protocanonical",
+    "en_name": "Romans",
+    "fr_name": "Romains",
+    "fr_abbr": "Rm"
+  },
+  "1CO": {
+    "book_num": 53,
+    "testament": "NT",
+    "book_type": "Pauline Epistle",
+    "canon_type": "protocanonical",
+    "en_name": "1 Corinthians",
+    "fr_name": "1 Corinthiens",
+    "fr_abbr": "1Co"
+  },
+  "2CO": {
+    "book_num": 54,
+    "testament": "NT",
+    "book_type": "Pauline Epistle",
+    "canon_type": "protocanonical",
+    "en_name": "2 Corinthians",
+    "fr_name": "2 Corinthiens",
+    "fr_abbr": "2Co"
+  },
+  "GAL": {
+    "book_num": 55,
+    "testament": "NT",
+    "book_type": "Pauline Epistle",
+    "canon_type": "protocanonical",
+    "en_name": "Galatians",
+    "fr_name": "Galates",
+    "fr_abbr": "Ga"
+  },
+  "EPH": {
+    "book_num": 56,
+    "testament": "NT",
+    "book_type": "Pauline Epistle",
+    "canon_type": "protocanonical",
+    "en_name": "Ephesians",
+    "fr_name": "Éphésiens",
+    "fr_abbr": "Ep"
+  },
+  "PHP": {
+    "book_num": 57,
+    "testament": "NT",
+    "book_type": "Pauline Epistle",
+    "canon_type": "protocanonical",
+    "en_name": "Philippians",
+    "fr_name": "Philippiens",
+    "fr_abbr": "Ph"
+  },
+  "COL": {
+    "book_num": 58,
+    "testament": "NT",
+    "book_type": "Pauline Epistle",
+    "canon_type": "protocanonical",
+    "en_name": "Colossians",
+    "fr_name": "Colossiens",
+    "fr_abbr": "Col"
+  },
+  "1TH": {
+    "book_num": 59,
+    "testament": "NT",
+    "book_type": "Pauline Epistle",
+    "canon_type": "protocanonical",
+    "en_name": "1 Thessalonians",
+    "fr_name": "1 Thessaloniciens",
+    "fr_abbr": "1Th"
+  },
+  "2TH": {
+    "book_num": 60,
+    "testament": "NT",
+    "book_type": "Pauline Epistle",
+    "canon_type": "protocanonical",
+    "en_name": "2 Thessalonians",
+    "fr_name": "2 Thessaloniciens",
+    "fr_abbr": "2Th"
+  },
+  "1TI": {
+    "book_num": 61,
+    "testament": "NT",
+    "book_type": "Pauline Epistle",
+    "canon_type": "protocanonical",
+    "en_name": "1 Timothy",
+    "fr_name": "1 Timothée",
+    "fr_abbr": "1Tm"
+  },
+  "2TI": {
+    "book_num": 62,
+    "testament": "NT",
+    "book_type": "Pauline Epistle",
+    "canon_type": "protocanonical",
+    "en_name": "2 Timothy",
+    "fr_name": "2 Timothée",
+    "fr_abbr": "2Tm"
+  },
+  "TIT": {
+    "book_num": 63,
+    "testament": "NT",
+    "book_type": "Pauline Epistle",
+    "canon_type": "protocanonical",
+    "en_name": "Titus",
+    "fr_name": "Tite",
+    "fr_abbr": "Tt"
+  },
+  "PHM": {
+    "book_num": 64,
+    "testament": "NT",
+    "book_type": "Pauline Epistle",
+    "canon_type": "protocanonical",
+    "en_name": "Philemon",
+    "fr_name": "Philémon",
+    "fr_abbr": "Phm"
+  },
+  "HEB": {
+    "book_num": 65,
+    "testament": "NT",
+    "book_type": "Pauline Epistle",
+    "canon_type": "protocanonical",
+    "en_name": "Hebrews",
+    "fr_name": "Hébreux",
+    "fr_abbr": "Hé"
+  },
+  "JAS": {
+    "book_num": 66,
+    "testament": "NT",
+    "book_type": "Catholic Epistle",
+    "canon_type": "protocanonical",
+    "en_name": "James",
+    "fr_name": "Jacques",
+    "fr_abbr": "Jc"
+  },
+  "1PE": {
+    "book_num": 67,
+    "testament": "NT",
+    "book_type": "Catholic Epistle",
+    "canon_type": "protocanonical",
+    "en_name": "1 Peter",
+    "fr_name": "1 Pierre",
+    "fr_abbr": "1P"
+  },
+  "2PE": {
+    "book_num": 68,
+    "testament": "NT",
+    "book_type": "Catholic Epistle",
+    "canon_type": "protocanonical",
+    "en_name": "2 Peter",
+    "fr_name": "2 Pierre",
+    "fr_abbr": "2P"
+  },
+  "1JN": {
+    "book_num": 69,
+    "testament": "NT",
+    "book_type": "Catholic Epistle",
+    "canon_type": "protocanonical",
+    "en_name": "1 John",
+    "fr_name": "1 Jean",
+    "fr_abbr": "1Jn"
+  },
+  "2JN": {
+    "book_num": 70,
+    "testament": "NT",
+    "book_type": "Catholic Epistle",
+    "canon_type": "protocanonical",
+    "en_name": "2 John",
+    "fr_name": "2 Jean",
+    "fr_abbr": "2Jn"
+  },
+  "3JN": {
+    "book_num": 71,
+    "testament": "NT",
+    "book_type": "Catholic Epistle",
+    "canon_type": "protocanonical",
+    "en_name": "3 John",
+    "fr_name": "3 Jean",
+    "fr_abbr": "3Jn"
+  },
+  "JUD": {
+    "book_num": 72,
+    "testament": "NT",
+    "book_type": "Catholic Epistle",
+    "canon_type": "protocanonical",
+    "en_name": "Jude",
+    "fr_name": "Jude",
+    "fr_abbr": "Jude"
+  },
+  "REV": {
+    "book_num": 73,
+    "testament": "NT",
+    "book_type": "Apocalyptic",
+    "canon_type": "protocanonical",
+    "en_name": "Revelation",
+    "fr_name": "Apocalypse",
+    "fr_abbr": "Ap"
+  }
+}

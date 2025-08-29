@@ -1,0 +1,68 @@
+% !TEX program = xelatex
+\documentclass[10pt, twoside]{book}
+
+% --- PACKAGES ---
+\usepackage{geometry}           % For page margins
+\usepackage{fontspec}           % Main package for using system fonts with XeTeX
+\usepackage{fancyhdr}           % For custom headers and footers
+\usepackage[french]{babel}      % For French typography rules
+\usepackage{microtype}          % Improves typography (justification, spacing)
+
+% --- PAGE LAYOUT ---
+\geometry{
+    a4paper,
+    left=2.5cm,
+    right=2.5cm,
+    top=2.5cm,
+    bottom=2.5cm
+}
+
+% --- FONT SELECTION ---
+% This template uses "Linux Libertine O", a free and high-quality font.
+% You can change this to any font installed on your system (e.g., "Times New Roman", "Garamond").
+\setmainfont{Linux Libertine O}
+
+% --- HEADERS AND FOOTERS ---
+\pagestyle{fancy}
+\fancyhf{} % Clear all header and footer fields
+\fancyhead[LE]{\nouppercase{\leftmark}}  % Book name on the left (even pages)
+\fancyhead[RO]{\nouppercase{\rightmark}} % Chapter on the right (odd pages)
+\fancyfoot[C]{\thepage}                 % Page number in the center footer
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% --- CUSTOM COMMANDS ---
+% Redefine chapter command for cleaner output in headers
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\newcommand{\biblechapter}[1]{
+    \chapter*{Chapitre #1}
+    \markright{Chapitre #1}
+}
+
+% Command for the verse number
+\newcommand{\versenum}[1]{\textsuperscript{\textbf{#1}}\hspace{0.1em}}
+
+% --- DOCUMENT METADATA ---
+\title{La Sainte Bible}
+\author{Traduction par l'abbé Louis-Claude Fillion (1904)}
+\date{Édition numérique générée en \the\year}
+
+
+% --- DOCUMENT START ---
+\begin{document}
+
+% --- TITLE PAGE ---
+\maketitle
+\frontmatter % Switches to Roman numeral page numbering for front matter
+
+% --- TABLE OF CONTENTS ---
+\tableofcontents
+
+\mainmatter % Switches to Arabic numeral page numbering for the main text
+
+% --- BIBLE CONTENT ---
+% This is the placeholder where our Node.js script will inject the Bible text.
+%%BIBLE_CONTENT%%
+
+
+\end{document}
