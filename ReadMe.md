@@ -22,6 +22,7 @@ Ce projet est destiné aussi bien aux développeurs cherchant à intégrer le te
 5.  [**Liste Complète des Formats Disponibles**](#liste-complète-des-formats-disponibles)
 6.  [**Comment Contribuer**](#comment-contribuer)
 7.  [**Licence**](#licence)
+8.  [**La Bible**](#la-bible)
 
 ---
 
@@ -183,7 +184,7 @@ Cette histoire du salut est rapportée dans l'Ancien Testament ou Ancienne Allia
 
 ---
 
-##La Bible Fillion
+## La Bible Fillion
 
 Prêtre philosophe de l'Église catholique, Louis-Claude Fillion est né le 25 juin 1843 en Saône-et-Loire et mort en 1927. Ordonné prêtre en 1867, admis dans la compagnie de Saint-Sulpice, il fut professeur d'Écriture sainte et d'hébreu au grand séminaire de Reims de 1871 à 1874, et au grand séminaire de Lyon de 1874 à 1893. Au mois d'octobre 1893, il fut nommé à l'Institut catholique de Paris où il occupa la chaire d'exégèse et d'Écriture sainte.
 
