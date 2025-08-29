@@ -63,6 +63,7 @@ Si vous souhaitez modifier le texte source, ajouter un nouveau format ou simplem
 
     ```bash
     git clone https://github.com/janvier-s/bible-fillion.git
+    cd /bible-fillion
     ```
 
 2.  **Installez les dépendances :**
@@ -97,7 +98,7 @@ Spécifiez les formats ou les groupes directement en arguments. C'est idéal pou
 
 ## Validation des Données
 
-Pour garantir l'intégrité, la complétude et la continuité du texte biblique source, un script de validation a été créé. Il vérifie l'absence de versets manquants, de chapitres dupliqués ou de toute autre anomalie dans les fichiers `source/`.
+Pour garantir l'intégrité, la complétude et la continuité du texte biblique source, un script de validation a été créé. Il vérifie d'éventuels versets manquants, de chapitres dupliqués ou de toute autre anomalie dans les fichiers `source/`.
 
 Pour lancer la validation, exécutez :
 
