@@ -170,7 +170,7 @@ Tout le code source, les scripts et les données structurées de ce projet sont 
 
 # LA BIBLE
 
-La Bible, du grec ta biblia (les livres), est une compilation de livres. Fondement majeur de la culture judéo-chrétienne, son influence est planétaire. Plus de 40 millions d'exemplaires sont vendus chaque année.
+La Bible, du grec _ta biblia_ (les livres), est une compilation de livres. Fondement majeur de la culture judéo-chrétienne, son influence est planétaire. Plus de 40 millions d'exemplaires sont vendus chaque année.
 
 Composée de 74 livres, la Bible se répartit en deux grandes sections: 47 livres pour l'Ancien Testament et 27 livres pour le Nouveau Testament. Sa rédaction s'étend sur plusieurs siècles: vers le IXe av. J.-C. au début du Ier siècle ap. J.-C.
 
