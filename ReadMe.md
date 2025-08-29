@@ -195,3 +195,15 @@ La Bible Fillion, établie entre 1888 et 1904, était au départ destinée aux s
 Ce canon reflète la tradition catholique, qui reconnaît les 46 livres de l’Ancien Testament (y compris les livres deutérocanoniques) et les 27 livres du Nouveau Testament. L’ordre suit l’influence de la Septante (LXX), traduction grecque des Écritures hébraïques utilisée par les premiers chrétiens, et qui comprenait les livres deutérocanoniques. La séquence précise des livres correspond à l’agencement traditionnel catholique, tel qu’il fut confirmé au Concile de Trente (1546), où l’Église catholique a officiellement défini son canon.
 
 Le langage est précis et sans ostentation et donne une lecture traditionnelle des textes bibliques.
+
+---
+
+
+Que le Seigneur bénisse votre lecture et votre travail avec ce texte. Puisse sa Parole éclairer votre intelligence, apaiser votre cœur et fortifier votre esprit dans la recherche de la Vérité.
+
+Puisse la Parole, lumière sur votre chemin, vous guider et vous bénir dans toutes vos entreprises.
+
+<br>
+<p align="center">
+  <em>Pour la Gloire de Dieu et le Salut du Monde</em>
+</p>
