@@ -6,7 +6,7 @@
 
 Ce dépôt a pour objectif de fournir la traduction de la Bible par l'abbé **Louis-Claude Fillion (1904)** dans le plus grand nombre de formats numériques possibles. Le texte source a été analysé et structuré à partir d'une version ePub pour garantir une base de données propre et fiable, servant de "Source Unique de Vérité".
 
-Ce projet est destiné aussi bien aux développeurs cherchant à intégrer le texte biblique dans leurs applications, qu'aux chercheurs, aux graphistes ou simplement aux lecteurs désirant une version spécifique de ce texte.
+Ce projet est destiné aussi bien aux développeurs cherchant à intégrer le texte biblique dans leurs applications, qu'aux chercheurs, aux graphistes ou simplement aux lecteurs désirant une version spécifique de ce texte. ePub, PDF, SQLite, USFM, OSIS, JSON et plus.
 
 ---
 
@@ -116,7 +116,7 @@ node scripts/validate.js
 ├── formats/            # (Généré) Contient tous les fichiers finaux.
 ├── metadata/           # Contient les métadonnées (noms des livres, schémas, etc.).
 ├── scripts/            # Contient tous les scripts de génération et de validation.
-├── source/             # La "Source de Vérité" : 73 fichiers JSON, un par livre.
+├── source/             # La "Source de Vérité" : 73 fichiers , un par livre.
 ├── build.js            # Le script de build principal.
 └── README.md           # Ce fichier.
 ```
@@ -131,9 +131,9 @@ node scripts/validate.js
 | **(Prêts à l'emploi)** | `PDF (via XeTeX)`         | PDF de haute qualité typographique, idéal pour l'impression et la lecture.    |
 |                        | `Module SWORD (.zip)`     | **Module installable** pour des dizaines d'apps (AndBible, Xiphos, etc.).     |
 | ---                    | ---                       | ---                                                                           |
-| **Texte Source**       | `JSON (imbriqué)`         | La source de vérité. Structure intuitive : livre → chapitres → versets.       |
-| **Texte & Web**        | `JSON (plat)`             | Idéal pour des recherches rapides de versets par clé (ex: `GEN.1.1`).         |
-|                        | `JSONL (.jsonl)`          | Parfait pour le streaming de données et les outils de Big Data.               |
+| **Texte Source**       | ` (imbriqué)`         | La source de vérité. Structure intuitive : livre → chapitres → versets.       |
+| **Texte & Web**        | ` (plat)`             | Idéal pour des recherches rapides de versets par clé (ex: `GEN.1.1`).         |
+|                        | `L (.l)`          | Parfait pour le streaming de données et les outils de Big Data.               |
 |                        | `Texte Brut (.txt)`       | Pour une lisibilité maximale et une compatibilité universelle.                |
 |                        | `HTML (.html)`            | Pour une lecture simple et stylisée dans un navigateur web.                   |
 |                        | `Markdown (.md)`          | Idéal pour la documentation et les générateurs de sites statiques.            |
