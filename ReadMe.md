@@ -164,3 +164,34 @@ Les contributions sont les bienvenues !
 Le texte de la Bible Fillion (1904) est dans le **domaine public**.
 
 Tout le code source, les scripts et les données structurées de ce projet sont également dédiés au domaine public sous la licence [Creative Commons Zéro (CC0 1.0 Universal)](https://creativecommons.org/publicdomain/zero/1.0/deed.fr). Vous êtes libre de copier, modifier, distribuer et utiliser ce travail, y compris à des fins commerciales, sans aucune restriction.
+
+---
+
+# LA BIBLE
+
+La Bible, du grec ta biblia (les livres), est une compilation de livres. Fondement majeur de la culture judéo-chrétienne, son influence est planétaire. Plus de 40 millions d'exemplaires sont vendus chaque année.
+
+Composée de 74 livres, la Bible se répartit en deux grandes sections: 47 livres pour l'Ancien Testament et 27 livres pour le Nouveau Testament. Sa rédaction s'étend sur plusieurs siècles: vers le IXe av. J.-C. au début du Ier siècle ap. J.-C.
+
+L'Ancien Testament constitue l'unique référence de la religion juive. Il est composé du Pentateuque (les cinq premiers livres), des livres "prophétiques", "poétiques" et "historiques". Écrit en langue hébraïque, l'Ancien Testament raconte la relation d'alliance entre Dieu et son peuple, dans l'attente du Messie et l'espérance de l'accomplissement des promesses de Dieu.
+
+Les chrétiens recourent à la totalité des écrits bibliques, Ancien et Nouveau Testament.
+
+Rédigée par plusieurs auteurs, la Bible expose la révélation du mystère de Dieu et son projet de salut dans l'histoire humaine. Elle transcrit la progression de cette révélation à travers les grands événements, parmi lesquels nous pouvons citer la Création et le péché des origines, la chute de la tour de Babel et la dispersionde l'humanité sur toute la terre, l'appel de Dieu adressé à Abraham et l'épopée des patriarches, la sortie d'Égypte et le don de la Loi à Moïse, l'entrée en Terre promise et l'institution des rois, la construction du Temple de Jérusalem et les manquements du peuple élu, le déclin de la royauté d'Israël et l'envoi des prophètes, la déportation à Babylone et le retour de l'exil.
+
+Cette histoire du salut est rapportée dans l'Ancien Testament ou Ancienne Alliance. Les chrétiens reconnaissent dans la venue de Jésus-Christ son point culminant. Pour eux, l'annonce de la bonne nouvelle de Jésus-Christ et sa réception dans la foi réalisent le salut de l'humanité. Par sa passion, sa mort et sa résurrection, Jésus de Nazareth a fondé l'Église, la communauté des croyants. Les écrits qui rapportent ces événements forment le Nouveau Testament rédigé en grec, langue commune du Proche-Orient au début de l'ère chrétienne.
+
+---
+
+##La Bible Fillion
+
+Prêtre philosophe de l'Église catholique, Louis-Claude Fillion est né le 25 juin 1843 en Saône-et-Loire et mort en 1927. Ordonné prêtre en 1867, admis dans la compagnie de Saint-Sulpice, il fut professeur d'Écriture sainte et d'hébreu au grand séminaire de Reims de 1871 à 1874, et au grand séminaire de Lyon de 1874 à 1893. Au mois d'octobre 1893, il fut nommé à l'Institut catholique de Paris où il occupa la chaire d'exégèse et d'Écriture sainte.
+
+Dix ans plus tard, il devint membre de la Commission biblique. D'une vaste érudition, très au fait des travaux modernes, il écrivit de nombreux livres d'exégèse qui le rattachent à une école de pensée plutôt modérée.
+
+La Bible Fillion, établie entre 1888 et 1904, était au départ destinée aux séminaristes. Elle fut traduite du latin d'après la Vulgate de saint Jérôme, qui uniformisa pour la première fois, à la fin du ve siècle, les textes bibliques établis par les Septante. La vulgate est le premier livre à avoir été imprimé par Gutenberg.
+
+Le langage est précis et sans ostentation et donne une lecture traditionnelle des textes bibliques.
+
+L'ordre des livres est celui de la Bible hébraïque: Pentateuque. livres prophétiques, autres écrits. Les livres «deutérocanoniques» ou «apocryphes» de l'Ancien Testament sont placés ensuite.
+
