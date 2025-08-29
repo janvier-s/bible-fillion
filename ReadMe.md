@@ -53,7 +53,7 @@ Si vous souhaitez modifier le texte source, ajouter un nouveau format ou simplem
 
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/) (version 16 ou supérieure)
-- **Pour le module SWORD :** Les outils de build SWORD (voir script `20-...`).
+- **Pour le module SWORD :** Les outils de build SWORD (voir script `20-build-sword-module.js`).
 - **Pour le PDF de haute qualité :** Une distribution TeX comme [MacTeX](https://www.tug.org/mactex/) (macOS), [MiKTeX](https://miktex.org/download) (Windows), ou [TeX Live](https://www.tug.org/texlive/) (Linux).
 
 ### Installation
@@ -62,7 +62,7 @@ Si vous souhaitez modifier le texte source, ajouter un nouveau format ou simplem
 
     ```bash
     git clone https://github.com/janvier-s/bible-fillion.git
-    cd VOTRE_NOM_DE_DEPOT
+    cd bible-fillion
     ```
 
 2.  **Installez les dépendances :**
