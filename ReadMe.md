@@ -1,4 +1,4 @@
-# Bible Fillion - Formats Numériques Multiples
+# Bible Fillion 1904 (complèteà - Édition numérique en plus de 20 formats pour lecteurs, développeurs et chercheurs.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Licence](<https://img.shields.io/badge/licence-CC0%201.0%20(Domaine%20Public)-lightgrey.svg>)
