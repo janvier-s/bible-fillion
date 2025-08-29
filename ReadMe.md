@@ -192,6 +192,6 @@ Dix ans plus tard, il devint membre de la Commission Biblique. D'une vaste érud
 
 La Bible Fillion, établie entre 1888 et 1904, était au départ destinée aux séminaristes. Elle fut traduite du latin d'après la Vulgate de saint Jérôme, qui uniformisa pour la première fois, à la fin du Ve siècle, les textes bibliques établis par les Septante. La Vulgate est le premier livre à avoir été imprimé par Gutenberg.
 
-Le langage est précis et sans ostentation et donne une lecture traditionnelle des textes bibliques.
-
 Ce canon reflète la tradition catholique, qui reconnaît les 46 livres de l’Ancien Testament (y compris les livres deutérocanoniques) et les 27 livres du Nouveau Testament. L’ordre suit l’influence de la Septante (LXX), traduction grecque des Écritures hébraïques utilisée par les premiers chrétiens, et qui comprenait les livres deutérocanoniques. La séquence précise des livres correspond à l’agencement traditionnel catholique, tel qu’il fut confirmé au Concile de Trente (1546), où l’Église catholique a officiellement défini son canon.
+
+Le langage est précis et sans ostentation et donne une lecture traditionnelle des textes bibliques.
