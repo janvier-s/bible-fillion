@@ -73,7 +73,7 @@ Si vous souhaitez modifier le texte source, ajouter un nouveau format ou simplem
 
 ### Utilisation du Script de Build
 
-Le script `scripts/build.js` est un outil flexible qui vous permet de générer exactement ce dont vous avez besoin.
+Le script `scripts/build.js` est un outil flexible qui vous permet de générer le format exacte dont vous avez besoin.
 
 #### Mode Interactif (Recommandé)
 
