@@ -112,7 +112,7 @@ node scripts/validate.js
 ```
 .
 ├── assets/             # Contient les ressources comme l'image de couverture et le template XeTeX.
-├── formats/            # (Généré) Contient tous les fichiers finaux. N'est pas dans Git.
+├── formats/            # (Généré) Contient tous les fichiers finaux.
 ├── metadata/           # Contient les métadonnées (noms des livres, schémas, etc.).
 ├── scripts/            # Contient tous les scripts de génération et de validation.
 ├── source/             # La "Source de Vérité" : 73 fichiers JSON, un par livre.
