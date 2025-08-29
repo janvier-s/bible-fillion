@@ -198,12 +198,11 @@ Le langage est précis et sans ostentation et donne une lecture traditionnelle d
 
 ---
 
-
+<p align="center">
 Que le Seigneur bénisse votre lecture et votre travail avec ce texte. Puisse sa Parole éclairer votre intelligence, apaiser votre cœur et fortifier votre esprit dans la recherche de la Vérité.
 
 Puisse la Parole, lumière sur votre chemin, vous guider et vous bénir dans toutes vos entreprises.
 
 <br>
-<p align="center">
   <em>Pour la Gloire de Dieu et le Salut du Monde</em>
 </p>
