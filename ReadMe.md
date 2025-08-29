@@ -39,7 +39,7 @@ Vous y trouverez les produits finis les plus populaires, tels que :
 <br>
 
 > [!IMPORTANT]
-> 👉 [**Cliquez ici pour accéder à la page des téléchargements (Releases)**](https://github.com/janvier-s/bible-fillion/releases) > _N'oubliez pas de remplacer le lien ci-dessus par le lien réel de votre dépôt._
+> 👉 [**Cliquez ici pour accéder à la page des téléchargements (Releases)**](https://github.com/janvier-s/bible-fillion/releases) 
 
 <br>
 
